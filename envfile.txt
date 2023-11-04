@@ -1,0 +1,7 @@
+MONGO_URL = mongodb+srv://dilshanjay:dilshan@cluster0.dqduaca.mongodb.net/shop?retryWrites=true&w=majority
+PORT = 3001
+PASS_SEC = digitx
+JWT_SEC = digitx
+STRIPE_KEY = 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
+
+NOTE* should be placed in the route directory.
